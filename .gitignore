@@ -1,0 +1,9 @@
+*.csv
+*.zip
+*.txt
+*.swp
+*.swo
+*.swm
+
+.venv
+__pycache__
